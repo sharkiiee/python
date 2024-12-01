@@ -1,0 +1,13 @@
+- What is python
+- print function in python
+- single comment and multi-line comments
+- how to write multiple line using """ in python
+- Module
+- pip
+- variables
+- datatypes
+- Naming rules of the variables
+- Operators in python
+- type function and type casting
+- Input function
+- strings
