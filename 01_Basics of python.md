@@ -11,3 +11,5 @@
 
 8. Write a program to make a calculator that can perform all the basic arithmetic operations.
 	*Solution*  https://gist.github.com/sharkiiee/ba8af92956b4713f0837ec94bb908f80
+9. Write a python program to display a user entered name followed by GoodAfternoon using input() Function.
+10. 

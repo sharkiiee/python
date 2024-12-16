@@ -10,4 +10,12 @@
 - Operators in python
 - type function and type casting
 - Input function
-- strings
+- strings  
+NOTE - String are immutable
+- String Functions
+- Escape sequence characters like /n and /t and /''
+- f strings --- f
+- List - Can store data of  any datatype , list is mutuable
+- Tuple - Tuple's are immutable
+- Dictionary is a collection of keys-value pairs.
+- Set -- Set is a collection of non-repetitive elements.
